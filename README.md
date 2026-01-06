@@ -1,99 +1,124 @@
 # Hi, I'm Akan 👋
 
-Backend Engineer specializing in **API design, authentication systems, and data-driven platforms**.  
-I build **scalable, maintainable backends** using Django / Django REST Framework and Node.js (Express), with a strong focus on clean architecture, security, and real-world use cases.
+Backend Engineering Lead specializing in **scalable API ecosystems, secure authentication architectures, and data-intensive platforms**.  
+I design and implement **resilient, production-grade backends** using **Django/DRF** and **Node.js (Express)**, with a strong focus on security, performance, and clean system design.
 
 ---
 
-## 🧠 Core Strengths
-- Backend system design & API architecture  
-- Authentication & authorization (JWT, token flows, role-based access)  
-- Database modeling, indexing & normalization  
-- Admin-controlled platforms & workflow systems  
-- API documentation, testing & developer experience  
+## 🧠 Core Competencies
+
+### System & Platform Architecture
+- API architecture (monolith → modular, service-oriented systems)
+- Event-driven workflows & background processing
+- API gateways, reverse proxies & third-party integrations
+- Admin-controlled platforms and workflow orchestration
+
+### Security Engineering
+- JWT authentication & token lifecycle management
+- OAuth 2.0 / OpenID Connect concepts
+- Role-Based Access Control (RBAC)
+- Audit logging, rate limiting & abuse prevention patterns
+
+### Data & Performance
+- PostgreSQL / MySQL schema design & optimization
+- Indexing, query tuning & performance analysis
+- Caching strategies (Redis)
+- Data migrations & integrity-focused workflows
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
 ### Languages
 - **Python**
 - **TypeScript**
 - JavaScript
 
-### Backend Frameworks & Libraries
-- **Django**
-- **Django REST Framework (DRF)**
-- **Djoser**
-- **dj-rest-auth**
-- **Node.js**
-- **Express**
+### Backend
+- **Django**, **Django REST Framework**
+- **Djoser**, **dj-rest-auth**
+- **Node.js**, **Express**
+- Django Channels (real-time features)
 
-### Databases & ORM
-- **PostgreSQL**
-- **MySQL**
-- **Prisma ORM**
+### Databases & ORMs
+- PostgreSQL, MySQL
+- Redis (caching & background tasks)
+- Django ORM, **Prisma**
 
-### Frontend (Working Knowledge)
-- React
-- HTML, CSS
-
-### Tools & DevOps
+### Tooling & Infrastructure
+- Docker, Docker Compose
 - Git, GitHub
-- Docker
 - Postman
-- PowerShell (Windows)
+- CI-friendly, production-focused setups
 
 ---
 
-## 🚀 What I Build
-- Authentication & account management systems  
-- API-first applications consumed by web & mobile clients  
-- Admin-driven platforms with granular permissions  
-- Transaction, activity & audit-based systems  
-- Assessment, testing & evaluation engines  
+## 🏗️ Selected Systems & Projects
+
+### 🔐 Authentication & Account Platforms
+- JWT-based auth using **Djoser** and **dj-rest-auth**
+- Secure token refresh & role-based permissions
+- Custom user models and admin-controlled access
+- Audit-ready authentication workflows
+
+**Tech:** Django, DRF, Djoser, Redis
 
 ---
 
-## 🧪 Featured Work & Systems
+### 🧪 Assessment / Examination Engine
+Backend-driven assessment platform designed for **external testing and employer review**:
+- Admin-created exams and questions
+- Secure candidate submissions
+- Role-based access (admin / candidate)
+- Real-time evaluation workflows
+- API-first design with clear testing paths
 
-### 📝 Assessment / Exam Engine
-A backend-driven **assessment and examination platform** with:
-- Admin-controlled exam creation  
-- Question management & submissions  
-- Role-based access (admin / candidate)  
-- Secure API endpoints for evaluation workflows  
-- Designed for external testing and employer review  
+**Tech:** Django, DRF, PostgreSQL, Redis
 
-### 🔐 Authentication & Account APIs
-- JWT-based authentication using **Djoser** and **dj-rest-auth**
-- Token refresh, password reset & email workflows  
-- Custom user models and permission layers  
-
-### 🛒 E-commerce Backend (Django + DRF)
-- Product catalog with filtering & sorting  
-- User authentication & profiles  
-- Cart & checkout flow  
-- Payment gateway integration  
-- Admin management and order tracking  
+---
 
 ### 💳 Transaction & Activity Systems
-- User-linked transactions (deposit / withdrawal)  
-- Status tracking (pending / confirmed)  
-- Human-readable timestamps  
-- Admin-only controls and audit visibility  
+- User-linked transaction processing
+- Status tracking (pending / confirmed)
+- Human-readable activity timelines
+- Admin-only controls and audit visibility
+
+**Tech:** Django, PostgreSQL, Redis
+
+---
+
+### 🛒 E-commerce Backend
+- Product catalog with filtering & sorting
+- Authentication, cart & checkout workflows
+- Payment gateway integration
+- Order tracking & admin management
+
+**Tech:** Django, DRF, PostgreSQL
+
+---
+
+## 🧩 Engineering Philosophy
+- **Production-first mindset**: observability, logging, and debuggability matter
+- **Security by design**: least privilege, layered controls, safe defaults
+- **Clean architecture**: separation of concerns, testable systems
+- **Performance awareness**: efficient queries, caching, async processing where needed
 
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 
 ---
 
-## 📫 Connect
+## 📫 Let’s Connect
+I enjoy solving **non-trivial backend problems** and building systems that remain stable as complexity grows.
+
+**Open to:** Backend Engineer | Backend Lead | Platform Engineer roles
+
 - GitHub: https://github.com/yourusername
+- LinkedIn: your-linkedin-url
+- Email: your.email@example.com
 
----
-
-> I focus on building backend systems that are **clear, testable, secure, and production-ready**, avoiding unnecessary complexity while ensuring scalability.
+> *I architect backend systems that don’t just work — they endure.*
