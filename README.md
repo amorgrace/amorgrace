@@ -117,8 +117,8 @@ I enjoy solving **non-trivial backend problems** and building systems that remai
 
 **Open to:** Backend Engineer | Backend Lead | Platform Engineer roles
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: your-linkedin-url
-- Email: your.email@example.com
+- GitHub: https://github.com/amorgrace
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/akan-sunday-686276314/)
+- Email: akanforte@gmail.com
 
 > *I architect backend systems that don’t just work — they endure.*
